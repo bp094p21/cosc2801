@@ -1,3 +1,3 @@
 ## 🎒 COSC2801 🎒
 
-[[Home|Go to wiki]].
+[Go to wiki](https://github.com/bp094p21/cosc2801/wiki)
